@@ -6,9 +6,9 @@ This Python script scrapes data from the BCA Registered Contractors directory on
 
 **Python 3**
 Libraries:
-    1. requests
-    2. beautifulsoup4
-    3. pandas
+1. requests
+2. beautifulsoup4
+3. pandas
 
 **Installation:**
 
